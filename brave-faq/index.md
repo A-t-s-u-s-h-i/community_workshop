@@ -26,6 +26,7 @@ Index
   - [BraveよりもChromeの方が軽いんですけど](#braveよりもchromeの方が軽いんですけど)
   - [最近のBraveの開発具合をこっそり教えてください](#最近のbraveの開発具合をこっそり教えてください)
   - [Braveのハッカソンがあると聞きました](#braveのハッカソンがあると聞きました)
+  - [過去にはこんなニュースもありました](#過去にはこんなニュースもありました)
 # 入門編
 
 ## Braveって何ですか
@@ -35,6 +36,8 @@ https://brave.com/
 
 ## どうしてWeb3ブラウザと呼ばれているのですか?
 Web3に明確な定義はありません。なのでWeb3ブラウザにも明確な定義はありません。「なぜBraveはWeb3ブラウザと呼ばれているのですか」という問いに対しては、Web3というワードを一度取っ払いましょう。そして、Braveが「Webブラウザとはどうあるべきなのか」という問いに対してどのように考えているのかという話を出発点にすることで、Braveの思想がどのようにWeb3ムーブメントと重なるのか、それっぽい答えが導き出せるのではないかと思います。
+
+https://www.slideshare.net/AtsushiSasaki9/web3-251178221
 
 ## Brave誕生秘話を教えてください
 https://gigazine.net/news/20191114-brave-road/
@@ -72,7 +75,7 @@ https://twitter.com/bravefan_jp
 https://github.com/brave/adblock-rust  
 
 https://github.com/easylist/easylist  
-brave://adblock
+brave://adblock  
 https://help.eyeo.com/en/adblockplus/how-to-write-filters
 
 https://brave.com/ja/privacy-updates/16-unlinkable-bouncing
@@ -84,6 +87,7 @@ https://brave.com/ja/privacy-updates/11-debouncing/
 https://github.com/brave/adblock-lists/blob/master/brave-lists/debounce.json
 
 ## Braveは他のAdブロッカー/セキュアブラウザとどう違うのですか
+https://www.forbes.com/advisor/business/software/secure-browsers/  
 https://privacytests.org/
 
 ## Braveだと見られないページがあります
@@ -91,14 +95,19 @@ https://privacytests.org/
 https://community.brave.com/c/japanese-support/148
 
 ## 同期が使いづらいのですが、特にiOS
-こちらにご報告ください  
+まずはShieldsを無効にしてアクセスしてください。  
+Shieldsによってブラウジングに影響が出ている場合は調査しますので、こちらにご報告ください。  
 https://community.brave.com/c/japanese-support/148
 
+こちらは参考リンクです。
 https://github.com/brave/go-sync  
-https://github.com/brave/brave-browser/wiki/Brave-Sync-v2
+https://github.com/brave/brave-browser/wiki/Brave-Sync-v2  
+https://www.chromium.org/developers/design-documents/sync
 
 ## デスクトップ/Android/iOSで使い勝手が違うんですが
 デスクトップとAndroidはほぼ同じ同じソースなのですが、iOSは技術的な理由により他からは独立して管理されている部分があります。(Braveヒストリーの記事でも触れられていましたね。)
+
+https://github.com/brave/brave-browser/wiki/Brave-Core-for-iOS-developers
 
 ## なんでiOS版では広告閲覧報酬がもらえないんですか
 https://brave.com/ja/rewards-ios/
@@ -117,7 +126,7 @@ https://support.brave.com/hc/en-us/articles/4404362647821
 https://brave.com/ama-with-brave-and-ipfs/
 
 ## もっと知りたいBrave Talk
-https://support.brave.com/hc/en-us/articles/4410256578189
+https://support.brave.com/hc/en-us/articles/4410256578189  
 https://brave.com/ja/brave-talk-extension/
 
 ## Braveの検索エンジンは使いづらいです
@@ -142,3 +151,8 @@ https://twitter.com/BrendanEich/status/1509269521059647488
 もう終わってしまいましたが、こんなのがありました
 
 https://metabuild.devpost.com/details/sponsor-challenges#h_68495059719631639493354543
+
+## 過去にはこんなニュースもありました
+去年のニュースですけどね
+
+https://japan.zdnet.com/release/30552519/
