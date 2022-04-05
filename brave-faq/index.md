@@ -1,4 +1,4 @@
-# Brave勝手にFAQ
+Brave勝手にFAQ
 
 Index
 - [入門編](#入門編)
@@ -25,20 +25,20 @@ Index
     - [BraveよりもChromeの方が軽いんですけど](#BraveよりもChromeの方が軽いんですけど)
     - [最近のBraveの開発具合をこっそり教えてください](#最近のBraveの開発具合をこっそり教えてください)
     - [Braveのハッカソンがあると聞きました](#Braveのハッカソンがあると聞きました)
-## 入門編
+# 入門編
 
-### Braveって何ですか
+## Braveって何ですか
 一言で "Brave" と言った時、それはChromiumベースのWebブラウザである "Braveブラウザ" のことを指します。とぎどき "Web3ブラウザ" なんて呼ばれることもありますが、BraveはただのWebブラウザには留まらず、Webのあり方自体を大きく変えるためのビジョンを持ち合わせており、大きなWebのプラットフォームを徐々に形成しつつあります。
 
 https://brave.com/
 
-### どうしてWeb3ブラウザと呼ばれているのですか?
+## どうしてWeb3ブラウザと呼ばれているのですか?
 Web3に明確な定義はありません。なのでWeb3ブラウザにも明確な定義はありません。「なぜBraveはWeb3ブラウザと呼ばれているのですか」という問いに対しては、Web3というワードを一度取っ払いましょう。そして、Braveが「Webブラウザとはどうあるべきなのか」という問いに対してどのように考えているのかという話を出発点にすることで、Braveの思想がどのようにWeb3ムーブメントと重なるのか、それっぽい答えが導き出せるのではないかと思います。
 
-### Brave誕生秘話を教えてください
+## Brave誕生秘話を教えてください
 https://gigazine.net/news/20191114-brave-road/
 
-### Braveを使うと暗号資産がもらえるんですか/BATとはなんですか
+## Braveを使うと暗号資産がもらえるんですか/BATとはなんですか
 私たちは普段Webサイトを閲覧する際に、頼んでもいない広告を多く見せられています。また、広告だけでなくWebの利用傾向を吸い取っている目に見えないトラッカーも非常に多くの通信を行なっています。これらの広告やトラッカーにより、ユーザは元々必要としていない通信を強制され、その分Webの閲覧に余分な時間を取られています。ユーザにこのような不便を強いることにより、一部の大企業は利益を追い求めているのです。
 
 Braveはプライバシーを侵害するこれらの広告やトラッカーをデフォルトでブロックします。そして、Brave独自のオプトイン形式の広告(Brave Ads)をBraveユーザに配信します。広告を受け取りたくない方は受け取らないということを選択することもできます。
@@ -52,22 +52,22 @@ https://brave.com/ja/brave-rewards/
 https://basicattentiontoken.org/ja/  
 https://vimeo.com/209336437
 
-### YouTubeやTwitterでチップがもらえるんですか
+## YouTubeやTwitterでチップがもらえるんですか
 https://creators.brave.com/?locale=ja
 
-### チップを送るときの注意点
+## チップを送るときの注意点
 https://support.brave.com/hc/en-us/articles/4403669418381
 
-### BraveWalletってなんですか
+## BraveWalletってなんですか
 https://brave.com/ja/wallet/
 https://chainlist.org/ 
 
-### 私もBATのチップ欲しいんですけど、くださいな！
+## 私もBATのチップ欲しいんですけど、くださいな！
 https://twitter.com/bravefan_jp
 
-## アドバンス編
+# アドバンス編
 
-### BraveのAdBlockはどのような仕組みですか
+## BraveのAdBlockはどのような仕組みですか
 https://github.com/brave/adblock-rust  
 
 https://github.com/easylist/easylist  
@@ -82,62 +82,62 @@ https://github.com/brave/adblock-resources/blob/master/filter_lists/default.json
 https://brave.com/ja/privacy-updates/11-debouncing/  
 https://github.com/brave/adblock-lists/blob/master/brave-lists/debounce.json
 
-### Braveは他のAdブロッカー/セキュアブラウザとどう違うのですか
+## Braveは他のAdブロッカー/セキュアブラウザとどう違うのですか
 https://privacytests.org/
 
-### Braveだと見られないページがあります
+## Braveだと見られないページがあります
 こちらにご報告ください  
 https://community.brave.com/c/japanese-support/148
 
-### 同期が使いづらいのですが、特にiOS
+## 同期が使いづらいのですが、特にiOS
 こちらにご報告ください  
 https://community.brave.com/c/japanese-support/148
 
 https://github.com/brave/go-sync  
 https://github.com/brave/brave-browser/wiki/Brave-Sync-v2
 
-### デスクトップ/Android/iOSで使い勝手が違うんですが
+## デスクトップ/Android/iOSで使い勝手が違うんですが
 デスクトップとAndroidはほぼ同じ同じソースなのですが、iOSは技術的な理由により他からは独立して管理されている部分があります。(Braveヒストリーの記事でも触れられていましたね。)
 
-### なんでiOS版では広告閲覧報酬がもらえないんですか
+## なんでiOS版では広告閲覧報酬がもらえないんですか
 https://brave.com/ja/rewards-ios/
 
-### Solana連携って何なんですか
+## Solana連携って何なんですか
 EMV互換のBlockchainであればEthのウォレットアドレスがそのまま使えるのですがSolanaの場合は全く別のエコシステムなのでMetamaskではアクセスできません。Braveウォレットは一つのウォレットアプリケーションにおいてEthとSolanaも、そしてロードマップで触れられているところだとFileCoinも管理できるようになるべく、対応を検討しています。
 
-### Torのこと教えて
+## Torのこと教えて
 https://jp.techcrunch.com/2022/03/11/2022-03-09-twitter-tor-bypass-blocks/
 https://support.brave.com/hc/en-us/articles/4404362647821
 
 * Torのネットワークで通常のWebブラウジングをする
 * onionアドレスにアクセスする
 
-### ブラウザのipfs対応ってどういうこと?
+## ブラウザのipfs対応ってどういうこと?
 https://brave.com/ama-with-brave-and-ipfs/
 
-### もっと知りたいBrave Talk
+## もっと知りたいBrave Talk
 https://support.brave.com/hc/en-us/articles/4410256578189
 https://brave.com/ja/brave-talk-extension/
 
-### Braveの検索エンジンは使いづらいです
+## Braveの検索エンジンは使いづらいです
 これでも最近致命的なバグが改善されてだいぶよくはなったのです。もしもお暇でしたらフィードバックにご協力ください。
 
 https://brave.com/brave-search/
 
-### Braveのセキュリティ障害を発見しました
+## Braveのセキュリティ障害を発見しました
 そんなあなたは賞金を稼ぐチャンス！バグバウンティプログラムにぜひご参加ください。  
 https://hackerone.com/brave
 
-### BraveよりもChromeの方が軽いんですけど
+## BraveよりもChromeの方が軽いんですけど
 https://www.lifehacker.jp/article/2204the-fastest-browsers-on-windows-and-the-downsides/  
 https://community.brave.com/t/why-does-brave-use-more-ram-than-chrome/266735/
 
-### 最近のBraveの開発具合をこっそり教えてください
+## 最近のBraveの開発具合をこっそり教えてください
 全然こっそりじゃないですが...
 
 https://twitter.com/BrendanEich/status/1509269521059647488
 
-### Braveのハッカソンがあると聞きました
+## Braveのハッカソンがあると聞きました
 もう終わってしまいましたが、こんなのがありました
 
 https://metabuild.devpost.com/details/sponsor-challenges#h_68495059719631639493354543
