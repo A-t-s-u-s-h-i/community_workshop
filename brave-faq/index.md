@@ -68,7 +68,7 @@ https://vimeo.com/209336437
 
 bitFlyer口座と連携することで獲得したBATを引き出すことができます。bitFlyer口座をお持ちでない方は[こちら(*1)](https://try.bravesoftware.jp/ref/ja-wallet-4-july-2021/w.html)の「bitFlyerで新規口座開設」よりお申し込みください。
 
-(*1)  
+(*1)
 https://try.bravesoftware.jp/ref/ja-wallet-4-july-2021/w.html
 
 ## YouTubeやTwitterでチップがもらえるんですか
@@ -112,12 +112,13 @@ https://www.forbes.com/advisor/business/software/secure-browsers/
 https://privacytests.org/
 
 ## Braveだと見られないページがあります
-こちらにご報告ください  
+まずはShieldsを無効にしてアクセスしてください。  
+Shieldsによってブラウジングに影響が出ている場合は調査しますので、こちらにご報告ください。  
+
 https://community.brave.com/c/japanese-support/148
 
 ## 同期が使いづらいのですが、特にiOS
-まずはShieldsを無効にしてアクセスしてください。  
-Shieldsによってブラウジングに影響が出ている場合は調査しますので、こちらにご報告ください。  
+調査をするのでこちらにご報告ください。
 https://community.brave.com/c/japanese-support/148
 
 こちらは参考リンクです。  
