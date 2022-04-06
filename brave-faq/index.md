@@ -114,7 +114,7 @@ https://community.brave.com/c/japanese-support/148
 Shieldsによってブラウジングに影響が出ている場合は調査しますので、こちらにご報告ください。  
 https://community.brave.com/c/japanese-support/148
 
-こちらは参考リンクです。
+こちらは参考リンクです。  
 https://github.com/brave/go-sync  
 https://github.com/brave/brave-browser/wiki/Brave-Sync-v2  
 https://www.chromium.org/developers/design-documents/sync
@@ -147,7 +147,15 @@ https://brave.com/ja/brave-talk-extension/
 ## Braveの検索エンジンは使いづらいです
 これでも最近致命的なバグが改善されてだいぶよくはなったのです。もしもお暇でしたらフィードバックにご協力ください。
 
-https://brave.com/brave-search/
+https://brave.com/brave-search/  
+
+それはさておき、Brave Searchは他の検索エンジンにはないこんな機能を現在開発中です。
+
+https://dkb.io/post/the-next-google  
+https://brave.com/static-assets/files/goggles.pdf
+
+> This paper proposes an open and collaborative system by which a community, or a single user, can create sets of rules and filters, called Goggles, to define the space which a search engine can pull results from. Instead of a single ranking algorithm, we could have as many as needed, overcoming the biases that a single actor (the search engine) embeds into the results.  
+> =>コミュニティや個人ユーザがサーチエンジンが検索結果を引っ張ってくる場所を定義し、独自の検索フィルタやルールが作成可能となり、オープンなコラボレーションを実現する "Goggles" という仕組みを提案します。これにより、ただ一つの検索ランキングアルゴリズムではなく、必要なだけそれを用意し、特定のサーチエンジンによるバイアスを克服することができます。
 
 ## Braveのセキュリティ障害を発見しました
 そんなあなたは賞金を稼ぐチャンス！バグバウンティプログラムにぜひご参加ください。  
