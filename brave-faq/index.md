@@ -66,6 +66,11 @@ https://brave.com/ja/brave-rewards/
 https://basicattentiontoken.org/ja/  
 https://vimeo.com/209336437
 
+bitFlyer口座と連携することで獲得したBATを引き出すことができます。bitFlyer口座をお持ちでない方は[こちら(*1)](https://try.bravesoftware.jp/ref/ja-wallet-4-july-2021/w.html)の「bitFlyerで新規口座開設」よりお申し込みください。
+
+(*1)  
+https://try.bravesoftware.jp/ref/ja-wallet-4-july-2021/w.html
+
 ## YouTubeやTwitterでチップがもらえるんですか
 https://creators.brave.com/?locale=ja
 
