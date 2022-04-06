@@ -27,6 +27,7 @@ Index
   - [Braveのセキュリティ障害を発見しました](#braveのセキュリティ障害を発見しました)
   - [BraveよりもChromeの方が軽いんですけど](#braveよりもchromeの方が軽いんですけど)
   - [最近のBraveの開発具合をこっそり教えてください](#最近のbraveの開発具合をこっそり教えてください)
+  - [Braveウォレットの開発者向けドキュメントが欲しいです](#braveウォレットの開発者向けドキュメントが欲しいです)
   - [Braveのハッカソンがあると聞きました](#braveのハッカソンがあると聞きました)
   - [過去にはこんなニュースもありました](#過去にはこんなニュースもありました)
 
@@ -169,6 +170,11 @@ https://community.brave.com/t/why-does-brave-use-more-ram-than-chrome/266735/
 全然こっそりじゃないですが...
 
 https://twitter.com/BrendanEich/status/1509269521059647488
+
+## Braveウォレットの開発者向けドキュメントが欲しいです
+CTOがつくってくれました。英語ですが。  
+https://wallet-docs.brave.com/
+
 
 ## Braveのハッカソンがあると聞きました
 もう終わってしまいましたが、こんなのがありました
