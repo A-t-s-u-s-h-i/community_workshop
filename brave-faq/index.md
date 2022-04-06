@@ -1,6 +1,7 @@
 Brave勝手にFAQ
 
 Index
+- [最近の出来事](#最近の出来事)
 - [入門編](#入門編)
   - [Braveって何ですか](#braveって何ですか)
   - [どうしてWeb3ブラウザと呼ばれているのですか?](#どうしてweb3ブラウザと呼ばれているのですか)
@@ -9,6 +10,7 @@ Index
   - [YouTubeやTwitterでチップがもらえるんですか](#youtubeやtwitterでチップがもらえるんですか)
   - [チップを送るときの注意点](#チップを送るときの注意点)
   - [BraveWalletってなんですか](#bravewalletってなんですか)
+  - [日本にはBraveのユーザコミュニティはありますか](#日本にはbraveのユーザコミュニティはありますか)
   - [私もBATのチップ欲しいんですけど、くださいな！](#私もbatのチップ欲しいんですけどくださいな)
 - [アドバンス編](#アドバンス編)
   - [BraveのAdBlockはどのような仕組みですか](#braveのadblockはどのような仕組みですか)
@@ -27,6 +29,13 @@ Index
   - [最近のBraveの開発具合をこっそり教えてください](#最近のbraveの開発具合をこっそり教えてください)
   - [Braveのハッカソンがあると聞きました](#braveのハッカソンがあると聞きました)
   - [過去にはこんなニュースもありました](#過去にはこんなニュースもありました)
+
+# 最近の出来事
+https://twitter.com/mamaaa1112/status/1502400382706020353
+
+https://vancedapp.com/
+
+
 # 入門編
 
 ## Braveって何ですか
@@ -63,8 +72,14 @@ https://creators.brave.com/?locale=ja
 https://support.brave.com/hc/en-us/articles/4403669418381
 
 ## BraveWalletってなんですか
-https://brave.com/ja/wallet/
+https://brave.com/ja/wallet/  
 https://chainlist.org/ 
+
+## 日本にはBraveのユーザコミュニティはありますか
+Twitterで @BraveSoftwareJP をメンションしてBraveのことを呟いてください。  
+また、Discordを育てていきたいと考えています。
+
+https://discord.com/invite/G3cXtwcaEC
 
 ## 私もBATのチップ欲しいんですけど、くださいな！
 https://twitter.com/bravefan_jp
