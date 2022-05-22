@@ -13,12 +13,12 @@
 [https://support.brave.com/hc/en-us/articles/4413909784205](https://support.brave.com/hc/en-us/articles/4413909784205)
 
 Brave Walletはこのような画面です。  
-![ウォレット](/img/poap_02.png){width= 50％height= 50％}
+![ウォレット](/img/poap_02.png)
 
 ## POAPの取得
 ウォレットの準備ができたら、管理者よりPOAP取得用のURLをもらい、URLにアクセスします。 
 
 URLにアクセスしたら、ウォレットアドレスを入力(コピペ)し、［Mint POAP token］を押下します。  
-![リンク](/img/poap_01.png){width= 50％height= 50％}
+![リンク](/img/poap_01.png)
 
 その後しばらくすると自動的にウォレットにPOAPが転送されます。
