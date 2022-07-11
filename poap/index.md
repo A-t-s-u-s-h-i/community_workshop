@@ -44,3 +44,7 @@ URLにアクセスしたら、ウォレットアドレスを入力(コピペ)し
 ［Mint POAP token］を押下した後しばらくすると自動的にウォレットにPOAPが転送されます。
 
 ![リンク](img/complete.png)
+
+自分が獲得したPOAPは以下のURLで確認することができます。
+
+https://app.poap.xyz/scan/(自分のウォレットアドレス)
