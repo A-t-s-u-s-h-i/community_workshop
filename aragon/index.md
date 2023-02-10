@@ -12,7 +12,7 @@
 【勉強会参加者の方へ】ウォレットを作成したら、ウォレットアドレスをBrave Talkのチャット欄に投稿してください。ハンズオンで必要となるトークン(mch)をお送りします。ちなみにテストネットなので資産価値はゼロです。ご安心ください。
 ![wallet1](img/wallet_01.png)
 
-## Brave Walletの設定
+## Brave Walletの設定(Mumbaiネットワークの追加)
 Omochi DAOはPolygonのテストネットであるMumbaiを使用するため、設定の確認が必要です。
 
 Braveのアドレスバーに
@@ -27,6 +27,50 @@ brave://settings/wallet/networks
 
 必要な設定が自動入力されますので、画面を下にスクロールし、［送信］を押下します。
 ![setting](img/setting_04.png)
+
+## Brave Walletの設定(MCHトークンの表示設定)
+勉強会で使用するOMOCHI(MCH)トークンは、この勉強会でしか使用されないため、ウォレットに表示させるための設定が必要です。
+
+Braveのアドレスバーに
+
+brave://wallet/crypto/portfolio/add-asset
+
+と入力し、「カスタムアセットを追加」をクリックします。
+
+![setting](img/setting_06.png)
+
+それぞれの項目は以下の通り設定します。
+
+■ネットワークを選択  
+Mumbai
+
+■トークン名  
+OMOCHI
+
+■トークンアドレス  
+0xC279D3E2A1E7A585F0Cb42A593327cEd909FdA86
+
+■トークンシンボル  
+MCH
+
+小数点桁数  
+18
+
+![setting](img/setting_07.png)
+
+［追加］ボタンを押下すると、OMOCHIトークンが表示されます！
+
+![setting](img/setting_08.png)
+
+## Brave Walletの設定(ロックされるまでの時間)
+
+そのほか、
+
+brave://settings/wallet
+
+で、ウォレットがロックされるまでの時間を30分程度に設定することを推奨します。
+
+![setting](img/setting_05.png)
 
 ## ガス代で使用するmaticトークンの取得
 [https://faucet.polygon.technology/](https://faucet.polygon.technology/)にアクセスし、ウォレットアドレスを入力して［Submit］を押下してください。
@@ -49,6 +93,7 @@ brave://settings/wallet/networks
 ![ara2](img/aragon_02.png)
 
 次にウォレット接続を行います。
+
 ![ara3](img/aragon_03.png)
 ![ara4](img/aragon_04.png)
 ![wallet2](img/wallet_02.png)
@@ -58,3 +103,6 @@ brave://settings/wallet/networks
 ![ara5](img/aragon_05.png)
 ![ara6](img/aragon_06.png)
 ![ara7](img/aragon_07.png)
+
+"Loading App" の表示がなかなか消えないときは、Brave Shieldsを一度無効にしてみてください。画面が表示されたら有効に戻して問題ありません。
+![ara8](img/aragon_08.png)
