@@ -13,13 +13,13 @@
 ![wallet1](img/wallet_01.png)
 
 ## Brave Walletの設定(Mumbaiネットワークの追加)
-Omochi DAOはPolygonのテストネットであるMumbaiを使用するため、設定の確認が必要です。
+Omochi DAOは<span style="color: #ff0000;">Polygon</span>の<span style="color: #ff0000;">テストネット</span>である<span style="color: #ff0000;">Mumbai</span>を使用するため、設定の確認が必要です。
 
 Braveのアドレスバーに
 
 brave://settings/wallet/networks
 
-と入力し、設定画面を表示させます。「Ethereumネットワーク」の右の［追加］を押下してください。
+と入力し、設定画面を表示させます。「<span style="color: #ff0000;">Ethereumネットワーク</span>」の右の［追加］を押下してください。
 ![setting](img/setting_02.png)
 
 「ネットワークを検索」で "mumbai" と入力し、表示された項目を選択します。
@@ -72,7 +72,7 @@ brave://settings/wallet
 
 ![setting](img/setting_05.png)
 
-## ガス代で使用するmaticトークンの取得
+## <span style="color: #ff0000;">ガス代</span>で使用する<span style="color: #ff0000;">maticトークン</span>の取得
 [https://faucet.polygon.technology/](https://faucet.polygon.technology/)にアクセスし、ウォレットアドレスを入力して［Submit］を押下してください。
 ![setting](img/gas_01.png)
 
