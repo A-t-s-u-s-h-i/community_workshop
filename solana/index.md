@@ -142,10 +142,20 @@ https://brave.com/ja/bat-nft/
 https://brave.com/ja/state-of-the-bat-2023/  
 https://hyperspace.xyz/collection/batxadamape
 
+ここ一週間でどっと買われているので、今後何か動きがあるのかもしれません。(私は何も聞いてません笑)
+
 ### Solana Name Service(SNS)のインテグレーション
 
 https://brave.com/ja/solana-name-service/
 
+こちらはIPFSでWebサイトをホスティングしてSNSで名前解決させる方法の紹介。bonfida.sol/solana.sol/0x33.solなどは実際にアドレスバーに打ち込んで名前解決されます。
+
+https://docs.bonfida.org/collection/naming-service/using-sns/resolving-websites-with-sns
+
+SNSの名前解決にはSyndicaを使用しています。
+
+https://syndica.io/
+
 ### 日本におけるコミュニティ・パートナー
 
-Solana Japanと仲良くできたら嬉しいです笑
+Solana Japanと引き続き仲良くできたら嬉しいです笑
