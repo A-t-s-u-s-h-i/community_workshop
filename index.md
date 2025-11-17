@@ -1,4 +1,3 @@
-# 勉強会資料
-## Index
+# Index
 
-* [Brave勝手にFAQ](/community_workshop/brave-faq/)
+* [autoplay](/community_workshop/autoplay2/)
