@@ -52,6 +52,10 @@ title: Grok Modal Test
 .open-modal-btn:hover {
   background-color: #0056b3;
 }
+
+.textarea-small {
+  font-size: 0.8rem;
+}
 </style>
 
 <!-- モーダルを開くボタン -->
@@ -62,9 +66,17 @@ title: Grok Modal Test
   <div class="modal-content">
     <span class="close" onclick="closeModal()">&times;</span>
     <h2>Modal Window</h2>
-    <p>This is a test modal window.</p>
+    <label for="modal-story">Tell us your story (0.8rem):</label>
+    <textarea id="modal-story" name="modal-story" class="textarea-small" rows="5" cols="33" placeholder="14px text area in modal"></textarea>
   </div>
 </div>
+
+<br><br>
+
+<label for="story2">Tell us your story (1.0rem):</label>
+
+<textarea id="story2" name="story2" rows="5" cols="33" placeholder="16px text area">
+</textarea>
 
 <script>
 function openModal() {
