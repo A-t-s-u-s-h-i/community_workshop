@@ -56,6 +56,10 @@ title: Grok Modal Test
 .textarea-small {
   font-size: 0.8rem;
 }
+
+.textarea-medium {
+  font-size: 1.0rem;
+}
 </style>
 
 <!-- モーダルを開くボタン -->
@@ -75,7 +79,7 @@ title: Grok Modal Test
 
 <label for="story2">Tell us your story (1.0rem):</label>
 
-<textarea id="story2" name="story2" rows="5" cols="33" placeholder="16px text area">
+<textarea id="story2" name="story2" class="textarea-medium" rows="5" cols="33" placeholder="16px text area">
 </textarea>
 
 <script>
